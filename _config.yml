@@ -4,7 +4,7 @@
 title: CityPlanningTechnician
 description: "A portfolio site for Charles Thomas"
 analytics: UA-50546869-2
-baseurl: "/solid-jekyll" #important: start with /
+baseurl: 
 url: "http://cleroythomas.github.io"
 
 # Build settings
