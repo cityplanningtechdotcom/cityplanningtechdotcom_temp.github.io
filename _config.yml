@@ -26,25 +26,23 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
     url: https:facebook.com/chuck.leroy.thomas
   - title: twitter
     url: 
   - title: instagram
     url: 
-  - title: tumblr
+  - title: linkedin
     url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - 3515 Elysian St
+    - 77009, Texas,
+    - USA
+email: cleroythomas@gmail.com.com
+tel: (404) 926-6235
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -100,7 +98,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: " CityPlanningTechnician is a freelance company for providing Web Development, GIS Services and Urban Planning Research services."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
