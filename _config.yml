@@ -27,9 +27,9 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url: https:facebook.com/chuck.leroy.thomas
+    url: https://facebook.com/chuck.leroy.thomas
   - title: twitter
-    url: cleroythomas
+    url: https://twitter.com/cleroythomas
   - title: instagram
     url: https://www.instagram.com/cleroythomas/
   - title: linkedin
