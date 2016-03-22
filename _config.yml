@@ -3,7 +3,7 @@
 # Site settings
 title: CityPlanningTechnician
 description: "A portfolio site for Charles Thomas"
-analytics: UA-50546869-2
+analytics: UA-50546879-2
 baseurl: 
 url: "http://cleroythomas.github.io"
 
@@ -29,7 +29,7 @@ social:
   - title: dribbble
     url:
   - title: facebook
-    url:
+    url: https:facebook.com/chuck.leroy.thomas
   - title: twitter
     url: 
   - title: instagram
