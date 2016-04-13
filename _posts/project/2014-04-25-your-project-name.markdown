@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Northeast Utilities Work Order Database"
+date:   2014-03-25 16:54:46
+author: Charles Thomas
 categories:
 - project
 img: portfolio_01.jpg
@@ -10,10 +10,10 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
+client: Northeast Utilities.
 website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
+####Northeast Utilities Work Order Database
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 ####Our Proposal
