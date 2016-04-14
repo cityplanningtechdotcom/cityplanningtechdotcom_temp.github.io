@@ -6,7 +6,6 @@ author: Charles Thomas
 categories:
 - project
 - web
-
 img: portfolio_04.jpg
 thumb: thumb02.jpg
 carousel:
