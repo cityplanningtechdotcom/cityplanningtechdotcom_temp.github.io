@@ -9,7 +9,7 @@ img: portfolio_05.jpg
 thumb: thumb02.jpg
 carousel:
 - portfolio_05.jpg
-client: Wonder Corp.
+client: JustGoodNewsOnly.com
 website: http://www.JustGoodNewsOnly.com
 ---
 ####www.JustGoodNewsOnly.com
