@@ -2,7 +2,7 @@
 layout: project
 title:  "CHF Health Report Maps"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Charles Thomas
 categories:
 - project
 img: portfolio_03.jpg
