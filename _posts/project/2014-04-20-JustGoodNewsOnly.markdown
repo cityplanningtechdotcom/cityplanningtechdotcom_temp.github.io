@@ -4,7 +4,8 @@ title:  "JustGoodNewsOnly"
 date:   2014-04-25 16:54:46
 author: Charles Thomas
 categories:
-- Web
+- project
+- web
 img: portfolio_05.jpg
 thumb: thumb02.jpg
 carousel:
