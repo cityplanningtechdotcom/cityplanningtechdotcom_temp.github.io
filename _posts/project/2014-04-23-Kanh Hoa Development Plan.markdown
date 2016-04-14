@@ -8,9 +8,7 @@ categories:
 img: portfolio_02.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- portfolio_02.jpg
 client: Wonder Corp.
 website: 
 ---
