@@ -7,7 +7,7 @@ categories:
 - blog
 - LinkedIn
 - Planning
-img: post03.jpg
+img: houston.jpg
 thumb: thumb03.jpg
 ---
 
