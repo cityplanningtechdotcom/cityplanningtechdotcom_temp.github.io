@@ -5,8 +5,8 @@ date: 2014-04-25 16:54:46
 author: Admin
 categories:
 - blog
-- Tips&Tricks
-- Code-Snippets
+- LinkedIn
+- Planning
 img: post03.jpg
 thumb: thumb03.jpg
 ---
@@ -25,3 +25,4 @@ The third difference with Plan Houston and more traditional general plans are th
 It’s important that the specific next steps be part of a CIP or added as an addendum to this plan at a later date. Otherwise it’s easy to imagine a situation where this “plan” is used as a way to forestall more effective legislation that holds public officials accountable. This plan has provided the vision for a more specific plan. Now we need the specific items and specific timeline for the equitable improvement of infrastructure items like drainage and transportation improvements in a way that ensures a balanced budget and fair distribution of the city’s resources. Please note comprehensive planning does not require zoning or land use regulation.
 
 Charles Thomas
+https://www.linkedin.com/pulse/plan-houston-differs-from-more-traditional-general-3-areas-thomas?trk=prof-post
