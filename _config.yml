@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: CityPlanningTechnician
+title: CityPlanningTech
 description: "A portfolio site for Charles Thomas"
 analytics: UA-50546879-2
 baseurl: 
-url: "http://cleroythomas.github.io"
+url: "http://cityplanningtechdotcom.github.io"
 
 # Build settings
 markdown: kramdown
