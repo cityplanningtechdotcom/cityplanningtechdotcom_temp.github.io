@@ -16,7 +16,7 @@ permalink: /
                 The site also covers some of the following data vis technologies 
                 <a href="https://d3js.org/" target="_blank">D3.js</a>, <a href="https://www.rstudio.com/" target="_blank">R Studio</a>,
                 <a href="https://sites.google.com/site/fusiontablestalks/stories" target="_blank">Fusion Tables</a> 
-                <p><a href="http://www.cityplanningtechnician.com/GIS/" class="btn btn-theme">More Info</a> 
+                <p><a href="http://www.cityplanningtech.com/GIS/" class="btn btn-theme">More Info</a> 
             </div>
             <div class="col-md-4">
                 <h4>Urban Planning & Market Research</h4>
@@ -31,7 +31,7 @@ permalink: /
                 We provide discount Web design & development services focusing on either Wordpress or 
                 Jekyll/Github. We offer a special all inclusive $99 Jekyll site offer that includes free hosting on my Github account. 
                 We also offer SEO and social media marketing services.
-                <p><a href="http://www.cityplanningtechnician.com/web/" class="btn btn-theme">More Info</a>
+                <p><a href="http://www.cityplanningtechn.com/web/" class="btn btn-theme">More Info</a>
             </div>		 				
         </div>
     </div><! --/container -->
@@ -45,14 +45,6 @@ permalink: /
             <h4>More About Our Agency.</h4>
             <p>{{ site.about }}</p>
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
-        </div>
-
-        <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
-            <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-            {% endfor %}
         </div>
 
         <div class="col-lg-3">
