@@ -7,14 +7,12 @@ categories:
 - project
 img: portfolio_01.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+
 client: Northeast Utilities.
 website: http://blacktie.co
 ---
-####Northeast Utilities Work Order Database
+Northeast Utilities Work Order Database
 This database project required that I train 15 utilitie line workers to input data into the Northeast Utilities work order system. 
 
-####Our Proposal
+Our Proposal
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
