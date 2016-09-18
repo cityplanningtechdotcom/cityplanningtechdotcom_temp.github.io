@@ -8,8 +8,8 @@ categories:
 img: portfolio_02.jpg
 thumb: thumb02.jpg
 carousel:
-- portfolio_02.jpg
-client: Wonder Corp.
+
+client: 
 website: 
 ---
 Kanh Hoa Development Recommendation
