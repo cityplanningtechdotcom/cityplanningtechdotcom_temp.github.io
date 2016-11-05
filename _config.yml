@@ -1,5 +1,4 @@
-baseurl: 
-url: "http://cityplanningtechdotcom.github.io"
+baseurl: "http://cityplanningtechdotcom.github.io"
 
 # Build settings
 markdown: kramdown
